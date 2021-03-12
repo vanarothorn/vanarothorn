@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanarothorn
 - 👀 I’m interested in DevOps Engineering, and Cloud Computing
-- 🌱 I’m currently learning building a continous intergration workflow with Travis CI
+- 🌱 I’m currently learning to build a continous intergration workflow with Travis CI
 - 📫 How to reach me https://www.linkedin.com/in/vanaro-thorn/
 
 <!---
