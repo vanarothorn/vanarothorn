@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanarothorn
+- 👋 Hi, I’m Vanaro
 
 
 <!---
